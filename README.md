@@ -8,9 +8,9 @@
 
 ## ⚡ Sobre mí
 
-Soy **Jeremy Juarez**, también conocido como **crown**. En mis repositorios encontrarás sistemas de negocio y proyectos web: desde un punto de venta para ropa y accesorios hasta herramientas de inventario y gestión de clientes, envíos y rutas.
+Soy **Jeremy Juarez**, también conocido digitalmente como **"Crown"**. En mis repositorios encontrarás sistemas de negocio y proyectos web: desde un punto de venta para ropa y accesorios hasta herramientas de inventario y gestión de clientes, envíos y rutas.
 
-Me gusta conectar interfaces con APIs y bases de datos. Y sí: **C# 4 life** 💙
+Me gusta conectar interfaces con APIs y bases de datos. 💙
 
 ## 🧩 Tecnologías en mis proyectos
 
